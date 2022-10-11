@@ -1,0 +1,56 @@
+.Container{
+  padding: 3%;
+}
+
+.InfoWarp{
+  text-align: center;
+  display: inline-block;
+}
+
+.Info{
+  width: 50%;
+  text-align: center;
+  position: relative;
+  float: left;
+  margin-right: 3%;
+}
+
+
+.InfoBox{
+  border: 1px solid;
+  height: 120px;
+  background-color: rgba(5, 47, 95, 0.1);
+  border: rgba(5, 47, 95, 0.3);;
+  margin-top: 2%;
+}
+
+.Line{
+  border-left: 1px solid;
+  height: 150px;
+  margin-top: 1%;
+  display: inline-block;
+  float: left;
+}
+
+.CategoryWrap{
+  text-align: center;
+}
+
+.ChartIcon{
+  width: 7%;
+  margin-right: 3%;
+  margin-top: 2%;
+}
+
+.FileUpWrap{
+  background-color: rgba(5, 47, 95, 0.3);
+  margin-top: 3%;
+  border-radius: 6px;
+  height: 280px;
+  text-align: center;
+}
+
+.FileUp{
+  color: black;
+  padding: 5%;
+}

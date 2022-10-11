@@ -1,0 +1,18 @@
+.Container{
+    background-color: #052F5F;
+    height: 50%;
+    display: block;
+    position: sticky;
+    top: 0;
+}
+
+.TextWrap{
+    text-align: center;
+    height: 100px;
+    padding: 2%;
+}
+
+.Title{
+    color: #F1A208;
+    font-size:2.5em;
+}
